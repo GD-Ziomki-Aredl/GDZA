@@ -8,5 +8,11 @@
     "percentToQualify": "70",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Kuboiks GD",
+            "link": "https://www.youtube.com/watch?v=nBjcA4uufqg&list=PLbnLD__Hvic9WLNaN4xVpLeVBcv543QQi&index=9",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
