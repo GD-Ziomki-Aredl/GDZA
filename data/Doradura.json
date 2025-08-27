@@ -8,5 +8,11 @@
     "percentToQualify": "69",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "SmileyGaming",
+            "link": "https://www.youtube.com/watch?v=jPITaUs39WY",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
