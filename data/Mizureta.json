@@ -7,6 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=U7oyw5m31UE&list=PLbnLD__Hvic9WLNaN4xVpLeVBcv543QQi&index=20",
     "percentToQualify": "67",
     "password": "Free To Copy",
-    "records": [   
+    "records": [
+        {
+            "user": "Mix3rrr",
+            "link": "https://www.youtube.com/watch?v=48Y9Q1LnfYI",
+            "percent": 100,
+            "hz": 360
+        }   
     ]
 }
