@@ -9,6 +9,12 @@
     "password": "Free To Copy",
     "records": [
         {
+            "user": "Blobik",
+            "link": "https://www.youtube.com/watch?v=DXIg6o_9PU0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "SmileyGaming",
             "link": "https://www.youtube.com/watch?v=MfqXisNpfGw",
             "percent": 100,
