@@ -8,5 +8,11 @@
     "percentToQualify": "70",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Mix3rrr",
+            "link": "https://www.youtube.com/watch?v=VGjgraU9LSI",
+            "percent": 100,
+            "hz": 180
+        }
     ]
 }
