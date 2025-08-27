@@ -1,6 +1,6 @@
 {
     "id": 77681476,
-    "name": "Atomic Cannon",
+    "name": "ATOMIC CANNON",
     "author": "LIEB",
     "creators": ["LIEB"],
     "verifier": "Blobik",
@@ -8,5 +8,11 @@
     "percentToQualify": "71",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Lemniks",
+            "link": "https://youtu.be/C8GillULYSc?si=SqCXgS9Qd3khz_u3",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
