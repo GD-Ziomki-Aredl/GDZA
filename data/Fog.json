@@ -3,10 +3,16 @@
     "name": "Fog",
     "author": "notes",
     "creators": ["notes And More"],
-    "verifier": "Blobik",
-    "verification": "https://www.youtube.com/watch?v=XaZi6iXgUY0",
+    "verifier": "Lemniks",
+    "verification": "https://youtu.be/4S50vi6fTSE?si=De2v5HjCW_GqotJ7",
     "percentToQualify": "72",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Blobik",
+            "link": "https://www.youtube.com/watch?v=XaZi6iXgUY0",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
