@@ -8,5 +8,11 @@
     "percentToQualify": "69",
     "password": "kto to znajdzie wygrywa nic :)",
     "records": [
+        {
+            "user": "Lemniks",
+            "link": "https://youtu.be/i8xHZIycqOM?si=ilLpmyTmTthh74dq",
+            "percent": 100,
+            "hz": 240
+        },
     ]
 }
