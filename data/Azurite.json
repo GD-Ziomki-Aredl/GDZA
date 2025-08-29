@@ -3,8 +3,8 @@
     "name": "Azurite (Sillow)",
     "author": "Sillow",
     "creators": ["Sillow"],
-    "verifier": "Miłek",
-    "verification": "https://youtu.be/-IOOeDSW-zg",
+    "verifier": "Lemniks",
+    "verification": "https://youtu.be/fY-4PzSfF8g?si=za-UKAiEg4Q4Ofoo",
     "percentToQualify": "77",
     "password": "Free To Copy",
     "records": [
@@ -13,6 +13,11 @@
             "link": "https://www.youtube.com/watch?v=HcdX6vqyPWM&list=PLbnLD__Hvic9WLNaN4xVpLeVBcv543QQi&index=11",
             "percent": 100,
             "hz": 360
+        {
+            "user": "Miłek",
+            "link": "https://youtu.be/-IOOeDSW-zg",
+            "percent": 100,
+            "hz": 360
         }
     ]
-}
+} 
