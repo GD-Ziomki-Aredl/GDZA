@@ -7,15 +7,16 @@
     "verification": "https://www.youtube.com/watch?v=jkAo-BnhnOc",
     "percentToQualify": "60",
     "password": "Free To Copy",
-    "records":[
+    "records": [
         {
             "user": "Miłek",
-            "link": "https://youtu.be/UrqJKRjH_VM",
+            "link": "https://www.youtube.com/watch?v=m0IvJmI8jiA",
             "percent": 100,
             "hz": 360
+        },
         {
             "user": "Lemniks",
-            "link": "https://youtu.be/AKufFURghEg?si=1HdZggziOOgg6B3o",
+            "link": "https://www.youtube.com/watch?v=AKufFURghEg",
             "percent": 100,
             "hz": 240
         }
