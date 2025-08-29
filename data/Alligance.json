@@ -3,11 +3,17 @@
     "name": "Allegiance",
     "author": "Nikroplays",
     "creators": ["Nikroplays"],
-    "verifier": "Miłek",
-    "verification": "https://www.youtube.com/watch?v=B5H5tUVPyi0",
+    "verifier": "Lemniks",
+    "verification": "https://youtu.be/T_8pfDM0H5s?si=mLqP0rbalZ9TnAEr",
     "percentToQualify": "61",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Miłek",
+            "link": "https://www.youtube.com/watch?v=B5H5tUVPyi0,
+            "percent": 100,
+            "hz": 360
+        },
         {
             "user": "Kuboiks",
             "link": "https://www.youtube.com/watch?v=WACxAwMpvgE&list=PLbnLD__Hvic9WLNaN4xVpLeVBcv543QQi&index=22",
