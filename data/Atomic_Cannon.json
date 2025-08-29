@@ -3,16 +3,16 @@
     "name": "ATOMIC CANNON",
     "author": "LIEB",
     "creators": ["LIEB"],
-    "verifier": "Blobik",
-    "verification": "https://www.youtube.com/watch?v=_q1Y9OGrEx4",
+    "verifier": "Lemniks",
+    "verification": "https://youtu.be/C8GillULYSc?si=SqCXgS9Qd3khz_u3",
     "percentToQualify": "71",
     "password": "Free To Copy",
     "records": [
         {
-            "user": "Lemniks",
-            "link": "https://youtu.be/C8GillULYSc?si=SqCXgS9Qd3khz_u3",
+            "user": "Blobik",
+            "link": "https://www.youtube.com/watch?v=_q1Y9OGrEx4",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         }
     ]
 }
