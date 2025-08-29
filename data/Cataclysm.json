@@ -3,11 +3,17 @@
     "name": "Cataclysm",
     "author": "GgB0y",
     "creators": ["GgB0y"],
-    "verifier": "Kuboiks",
-    "verification": "https://www.youtube.com/watch?v=kN3ccPmeRqU&list=PLbnLD__Hvic9WLNaN4xVpLeVBcv543QQi&index=2",
+    "verifier": "Lemniks",
+    "verification": "https://youtu.be/VOLmf-5yAb0?si=GSvqa7dpapUmZv9b",
     "percentToQualify": "63",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Kuboiks",
+            "link": "https://www.youtube.com/watch?v=kN3ccPmeRqU&list=PLbnLD__Hvic9WLNaN4xVpLeVBcv543QQi&index=2",
+            "percent": 100,
+            "hz": 360
+        },
         {
             "user": "Miłek",
             "link": "https://www.youtube.com/watch?v=a1ad6uZmlbs",
