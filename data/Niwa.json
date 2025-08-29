@@ -3,11 +3,17 @@
     "name": "Niwa",
     "author": "Teno",
     "creators": ["Teno And More"],
-    "verifier": "Kuboiks",
-    "verification": "https://www.youtube.com/watch?v=JcYThISpidc&list=PLbnLD__Hvic9WLNaN4xVpLeVBcv543QQi&index=8",
+    "verifier": "Lemniks",
+    "verification": "https://youtu.be/qySS3-smMVQ?si=tYwocWc2_SR0gK5s",
     "percentToQualify": "80",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Kuboiks",
+            "link": "https://www.youtube.com/watch?v=JcYThISpidc&list=PLbnLD__Hvic9WLNaN4xVpLeVBcv543QQi&index=9",
+            "percent": 100,
+            "hz": 360
+        }
         {
             "user": "Miłek",
             "link": "https://youtu.be/A8tpta_N8fU",
