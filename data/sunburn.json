@@ -3,10 +3,16 @@
     "name": "sunburn",
     "author": "pocke",
     "creators": ["pocke"],
-    "verifier": "Mix3rrr",
-    "verification": "https://www.youtube.com/watch?v=lg5WwE9LsdE",
+    "verifier": "Lemniks",
+    "verification": "https://youtu.be/bhLKVCwC0eU?si=kLmajrEV9kH1rwh9",
     "percentToQualify": "74",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Mix3rrr",
+            "link": "https://www.youtube.com/watch?v=lg5WwE9LsdE",
+            "percent": 100,
+            "hz": 270
+        },
     ]
 }
