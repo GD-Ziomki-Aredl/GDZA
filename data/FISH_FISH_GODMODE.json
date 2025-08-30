@@ -8,5 +8,12 @@
     "percentToQualify": "62",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Pepe2137",
+            "link": "https://www.youtube.com/watch?v=phBVgMq7jGM",
+            "percent": 95,
+            "hz": 60
+        }
+
     ]
 }
