@@ -3,10 +3,16 @@
     "name": "Cat Planet",
     "author": "icedcave",
     "creators": ["icedcave"],
-    "verifier": "Miłek",
-    "verification": "https://youtu.be/x7TX7RhJH5g",
+    "verifier": "Lemniks",
+    "verification": "https://youtu.be/kaYzzC5HJZo?si=p33Aclhq-HnoY5Ps",
     "percentToQualify": "64",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Miłek",
+            "link": "https://youtu.be/x7TX7RhJH5g",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
