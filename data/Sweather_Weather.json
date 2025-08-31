@@ -3,8 +3,8 @@
     "name": "Sweater Weather",
     "author": "VelYT",
     "creators": ["VelYT"],
-    "verifier": "Miłek",
-    "verification": "https://www.youtube.com/watch?v=ddIj9_9CHUg",
+    "verifier": "Lemniks",
+    "verification": "https://youtu.be/uSDgGshBbko",
     "percentToQualify": "57",
     "password": "Free To Copy",
     "records": [
@@ -21,8 +21,8 @@
             "hz": 180
         },
         {
-            "user": "Lemniks",
-            "link": "https://youtu.be/uSDgGshBbko",
+            "user": "Miłek",
+            "link": "https://www.youtube.com/watch?v=ddIj9_9CHUg",
             "percent": 100,
             "hz": 240
         }
