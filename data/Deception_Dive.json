@@ -3,14 +3,14 @@
     "name": "Deception Dive",
     "author": "Rustam",
     "creators": ["Rustam And More"],
-    "verifier": "Miłek",
-    "verification": "https://www.youtube.com/watch?v=JGBOhlLDJDI",
+    "verifier": "Lemniks",
+    "verification": "https://youtu.be/UTHWwam7gzc?si=HjNCqLtAx9kb4BWchttps://www.youtube.com/watch?v=JGBOhlLDJDI",
     "percentToQualify": "66",
     "password": "Free To Copy",
     "records": [
         {
-            "user": "Lemniks",
-            "link": "https://youtu.be/UTHWwam7gzc?si=HjNCqLtAx9kb4BWc",
+            "user": "Miłek",
+            "link": "https://www.youtube.com/watch?v=JGBOhlLDJDI",
             "percent": 100,
             "hz": 240
         }

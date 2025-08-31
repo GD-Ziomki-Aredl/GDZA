@@ -3,8 +3,8 @@
     "name": "Raindance",
     "author": "Milos482",
     "creators": ["Milos482 And More"],
-    "verifier": "Kuboiks",
-    "verification": "https://www.youtube.com/watch?v=jkAo-BnhnOc",
+    "verifier": "Lemniks",
+    "verification": "https://www.youtube.com/watch?v=AKufFURghEghttps://www.youtube.com/watch?v=jkAo-BnhnOc",
     "percentToQualify": "60",
     "password": "Free To Copy",
     "records": [
@@ -15,8 +15,8 @@
             "hz": 360
         },
         {
-            "user": "Lemniks",
-            "link": "https://www.youtube.com/watch?v=AKufFURghEg",
+            "user": "Kuboiks",
+            "link": "https://www.youtube.com/watch?v=jkAo-BnhnOc",
             "percent": 100,
             "hz": 240
         }
