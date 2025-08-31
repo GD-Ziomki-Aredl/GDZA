@@ -8,5 +8,11 @@
     "percentToQualify": "70",
     "password": "Free To Copy",
     "records": [
+    {
+            "user": "Blobik",
+            "link": "https://www.youtube.com/watch?v=dj7lt9wxDjA",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

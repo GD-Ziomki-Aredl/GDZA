@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=UcYlfsJp9lE",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Blobik",
+            "link": "https://www.youtube.com/watch?v=s54fSg7Td_g",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
