@@ -3,10 +3,16 @@
     "name": "ANNIHILATED",
     "author": "AlvaroRH99",
     "creators": ["AlvaroRH99"],
-    "verifier": "Kuboiks",
-    "verification": "https://www.youtube.com/watch?v=03Q0HOOrfas&list=PLbnLD__Hvic9WLNaN4xVpLeVBcv543QQi&index=28",
-    "percentToQualify": "55",
+    "verifier": "ItzRomulad",
+    "verification": "https://youtu.be/XrWr-TYo6Tk?si=MMdWVafkcGJArFWK",
+    "percentToQualify": "67",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Kuboiks",
+            "link": "https://www.youtube.com/watch?v=03Q0HOOrfas&list=PLbnLD__Hvic9WLNaN4xVpLeVBcv543QQi&index=28",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
