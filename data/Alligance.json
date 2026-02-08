@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=sbcYvEUPMDw",
             "percent": 100,
             "hz": 240
+        }, 
+        {
+            "user": "Pepe2137",
+            "link": "https://www.youtube.com/watch?v=GijwgJGrprQ",
+            "percent": 81,
+            "hz": 60
         }
     ]
 }
